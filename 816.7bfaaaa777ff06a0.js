@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_app_ng=self.webpackChunkdocs_app_ng||[]).push([[816],{7816:(d,a,e)=>{e.r(a),e.d(a,{PlayAppleBarElementModule:()=>p});var o=e(9808),n=e(5e3);let p=(()=>{class l{}return l.\u0275fac=function(t){return new(t||l)},l.\u0275mod=n.oAB({type:l}),l.\u0275inj=n.cJS({imports:[[o.ez]]}),l})()}}]);
